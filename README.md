@@ -34,10 +34,13 @@ The AIDS Clinical Trials Group Study 175 Dataset contains healthcare statistics 
 # Results
 The results achieved were not optimal. The highest performance was observed with the RandomForest Classifier, which yielded an:
 
-F1 score of 77%
-recall of 77%
-precision of 76%
-accuracy of 89%. 
+  F1 score of 77%
+  
+  Recall of 77%
+  
+  Precision of 76%
+  
+  Accuracy of 89%
 
 However, compared to the findings reported in this publication: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6080677/, my model's performance was lower.
 There is always room for improvement:
